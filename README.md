@@ -15,41 +15,27 @@
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
 - JavaScript / TypeScript  
 - Python  
 - Java  
 - C / C++  
-
-### 🌐 Frontend
 - HTML  
 - CSS  
 - React  
-
-### ⚙️ Tools & Technologies
 - Git & GitHub  
 - VS Code  
 - Docker
-
-
-
 ---
-
-
----
-
 ## 📫 Connect With Me
 - 📧 Email: redzerriley@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/redzer-monsod-bb4309296/  
 - 🌐 Portfolio: https://redzerriley.github.io/RedzerMonsod-Portfolio-Website/#/  
-
 ---
 
 ## ⚡ Fun Fact
 - I play multiple instruments mostly stringed instruments like Guitar, Bass, Ukulele, Bandurria Octavina, and Violin!
-- I also used to play a ton of video games! Like: TF2, Dota 2, League of Legends, and many more. 
-
+- I also used to play a ton of video games! Like: TF2, Dota 2, League of Legends, and many more.
+- I also love cats, currently have 2!
 
 ---
-
 ⭐️ *Feel free to check out my repositories and connect with me!*
