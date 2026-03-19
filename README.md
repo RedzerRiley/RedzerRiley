@@ -40,11 +40,16 @@
   <img src="https://skillicons.dev/icons?i=react" />
 </p>
 
+### 🗄️ Databases & Backend Services
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,firebase,supabase" />
+  <img src="https://skillicons.dev/icons?i=railway" />
+</p>
+
 ### 🔧 Tools & Platforms
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,docker" />
 </p>
-
 ---
 
 ## 📊 GitHub Stats
